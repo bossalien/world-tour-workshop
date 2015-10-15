@@ -1,0 +1,3 @@
+Create a command line program that efficientlygenerates prime numbers.
+When run, the program should read twointeger values from the command line arguments.
+All the prime numbers between thetwo input values should be output tothe console as quickly as possible.

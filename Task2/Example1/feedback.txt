@@ -1,0 +1,2 @@
+- Brute force loop with trivial inline "is prime" check. Looks like the absolute minimum. Fails on efficiency.
+- Brute force (as brute as it gets). Pass, not impressive.

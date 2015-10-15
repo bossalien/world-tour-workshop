@@ -1,0 +1,3 @@
+- Uses brute force, but is slightly optimised so it only checks odd numbers above 3.
+
+- Brute force, skips even numbers checking against 2 before entering the loop, goes up to the full number (not the sqrt)

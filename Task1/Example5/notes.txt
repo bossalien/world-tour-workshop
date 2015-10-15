@@ -1,0 +1,12 @@
+0) This is not to spec.
+
+	* Can you guys see the problems here?
+		- Incorrectly outputs the result for 0
+		- Incorrectly outputs for 3 and 5
+		- Misses multiples of 15 (else if insted of separated if)
+
+	* Bad usage of comments
+		- Comments are good but not for obvious statements or language features
+		- A good comment is somethign that explain
+			something that the code itself is not fully clear
+		- Of course self explanatory code is always preferrable

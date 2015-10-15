@@ -1,0 +1,6 @@
+0) Bare pass. But inefficient. Why?
+
+	* What does efficient mean?
+
+	* What does it mean to print
+		output "as quickly as possible"?

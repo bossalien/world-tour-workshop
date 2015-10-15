@@ -1,0 +1,7 @@
+0) Who else thinks this is a bit cryptic?
+
+	* Off spec, output is wrong
+
+	* Very^3 hard to read (euphemism)
+
+	* Why do you need a buffer this?

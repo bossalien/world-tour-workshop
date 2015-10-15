@@ -1,0 +1,15 @@
+0) This is perfect right?
+
+	* Clear example of overengineering a problem
+
+	* And it's still off spec
+
+	* Does not include 0
+
+	* Unnecessary if
+
+	* Again no loop, number from standard input and quits
+
+	* 200 lines of code?! WTF!
+
+	* Comments? For FSM's sake!

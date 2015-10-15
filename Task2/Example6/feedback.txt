@@ -1,0 +1,6 @@
++ Complies and runs (0 errors, 0 warnings)
+- Not to spec; prompts for input from std-in, rather than taking command line arguments
++ (adapted) tests pass for 8 bit and 16 bit primes [pass]
+- reports input parse errors for test range [4294967290 ... 4294967296] (32 bit unsigned)
+- But errors are reported to stdout and new input is requested, this hung my test suite
+- The code is all kinds of horrible, in both style and structure

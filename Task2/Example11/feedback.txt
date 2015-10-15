@@ -1,0 +1,9 @@
+- Uses a LUT. I'm not convinced of the value of this.
+- Uses prompted std-in rather than command line (does not follow spec)
+- Reports erros to cout not cin
+- Excessive #includes
+- It'll fall over pretty hard if you try find primes that factors over 1433^2
+
+- Can only test up to 2.05M (1433*1433) - NOT 1433^1433 as he states
+- 2053489 (1433*1433) tests as prime (off by one error)
++ Better than raw brute force, not as good as a sieve

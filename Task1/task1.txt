@@ -1,0 +1,4 @@
+Create a command line program that generates the following output to the console: For every integer
+between 0 and 30 inclusive, output the integer value on a single line. If the integer is a multiple
+of 3 (eg, 15, 21, 3, etc), the line should also contain the word "three". If the integer is a
+multiple of 5 (eg, 5, 0, 15, etc), the line should also contain the word "five".

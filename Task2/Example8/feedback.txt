@@ -1,0 +1,6 @@
+- Fails to find primes over 17923 (doesn't crash, but still, thats quite a low arbitrary upper limit).
+
+- Arbitrary limit on primes (for no good reason).
+- Brute force, no optimisation at all.
+- Likely crash if you ask for a large enough number.
+- This is a fail for me with my standard test case (50,000)

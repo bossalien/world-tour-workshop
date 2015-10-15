@@ -1,0 +1,12 @@
+* Brute force implementation (Example1, Example5, Example6)
+
+* Sieve of Erathostenes (Example3, Example9, Example10)
+
+* Talk about optimisation and efficiency and different approach
+
+* Php implementation how to get for a first
+	inefficient pass to a good optimised solution (Example12)
+
+* Good implementation in Python (Alex Gulliver's)
+
+* Good implementation in C# (Example13)

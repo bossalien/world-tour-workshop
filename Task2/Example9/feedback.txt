@@ -1,0 +1,5 @@
++ good error checking.
+- two treated as special case.
++ reference to era sieve docs on wikip.
+- I'm finding it hard parsing his sieve implementation, because he's printing and marking in the same loop with two inner loop sections (one marking, one printing and moving the baseline up to the next prime to begin marking again).
++ it's certainly not terribly readable, but I think it works. pass.

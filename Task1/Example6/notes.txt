@@ -1,0 +1,9 @@
+0) Correct? Good code?
+
+	* Unnecessary usings
+
+	* Unnecessary mod 15
+
+	* Not conform to spec output
+
+	* Should not have debugging output in prod code

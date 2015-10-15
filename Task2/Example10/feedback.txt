@@ -1,0 +1,18 @@
+- non-optimal SOE
++ error checking in place for bounds entry, comments and attribution.
++ this is a pass for me.
+
+- The question asks for "command line arguments" but he uses the standard input stream.
+
+- No command line arguments, which is very clear in the spec.
+- Returns error code 1 every time.
++ Looks thorough otherwise.
+
+-- Doesn't follow specification, in taking 2 command line arguments for lower and upper bounds.
++ Implemented Sieve of Eratosthenes.
++ Called out disadvantages of algorithm, and talked about Sieve of Atkin (but choose Eratosthenes due to time constraints).
++ Separation of input and generation, main() shows high level flow.
+- Output is done during processing.
+- Poor validation of inputs.
+++ Logic is very clear and simple. No nonsense.
+-- Lots of intermediate files hanging around in his deliverable, didn't clean his projects before sending them.

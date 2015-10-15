@@ -1,0 +1,11 @@
+- About as brute force as it gets, I find it hard to read but I think it'll work.
+- Initial error checking is weird.
+- Comments are wrong (set x and y values to 3 ... then only sets x) but don't impact the end result.
+- We asked for params passed on the commandline, but range is hardcoded to 2..1000
+
+- Program has hard coded range to work over
+- Fairly nasty brute force
+
+ - Fails to meet input specification
+ - Fails to meet execution specification on Task 1 and Task 2 (both in one app).
+ - Barely an improvement on brute force for Task 2.

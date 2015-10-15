@@ -1,0 +1,11 @@
++ Sieve of Erathostenes, seems to work fine.
+- Predeliction for doing if( thing == false ) continue. But maybe there's nothing wrong with it.
+- His comments don't make much sense, but I've no major technical complaints.
+
++ He does have some comments indicating that he is at least thinking about efficiency (reading/writing memory).
+- Again the question was not understood. He did not use command line arguments and instead read cin.
+
++ Ok sieve implementation.
++ Pass, but not spectacular.
+- Use of unsigned (where everything else is signed) is very strange - you've already set the size of the vector array at this point.
+- Inner loop could be trivially improved by incrementing j by i instead of by 1 and then multiplying later, yet he has a big conversation about hypothetical performance results.

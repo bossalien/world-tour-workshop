@@ -1,0 +1,12 @@
+0) This?
+
+	* Concise
+
+	* Simple
+
+	* Easy to read
+
+	* It would be a perfectly fine solution,
+		if it wasn't skipping 30
+
+	* Single character makes the difference between right and wrong

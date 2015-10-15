@@ -1,0 +1,8 @@
+0) Here's an example of a submitted solution.
+	Can anyone spot an issue with this?
+
+	- Not to spec
+	- Lot of code for a simple task
+	- No input validation puts the program in infinite loop
+
+1) Restart from scratch

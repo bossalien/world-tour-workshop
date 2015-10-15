@@ -1,0 +1,21 @@
+0) What are the issues with this one?
+	* Are all the number requested in the spec printed?
+		- 0 is excluded but 0 is a multiple of 3 and 5.
+			Common mistake coming from confusion between division of and division by 0
+		- Also why checking against 0 when looping on it
+
+	* Are the number on single lines?
+		- No cout << endl; after line 16
+
+	* Will this compile on most architectures?
+		- It won't compile because of specific VS imports
+		* How would you fix this?
+			- Test your program on as many platforms as you can
+			- Remove _tmain, _TCHAR
+
+	* What about the for range? (not a fail)
+		- i < 31 makes the program more confusing (and far from the problem spec)
+
+	- Use ternary operator which makes it less readable and
+		doing arbitrary amount of work you don't need to do
+		for the else case

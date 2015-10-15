@@ -1,0 +1,10 @@
+0) This will work and satisfies the spec...
+
+	* But what are the issues here?
+		- Unnecessary nested ifs
+		- Code very hard to read
+		- Unnecessary cout << " "
+
+	* Very hard to extend if the problem changes
+
+	* If int main(...) there should be a return value

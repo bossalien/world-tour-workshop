@@ -1,0 +1,3 @@
+- Slow, inefficient. Loops min-to-max testing for prime-ness.
+- Full brute force. Rudimentary error checking. Scrape pass.
++ Checks up to square root.

@@ -1,0 +1,7 @@
+0) Problems?
+
+	* Where's the 0?
+
+	* Not failure points, but open for discussions:
+		- Better constructing a string than printlning 3 times
+		- Would be even better to use a StringBuilder
